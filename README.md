@@ -1,7 +1,7 @@
 
 <a name="readme-top"></a>
 
-<p  align="center"><img width="600px" src="https://github.com/BinaryBeast007/browser-password-decryptor/blob/main/assets/BrowserPasswordDecryptor.gif"></p>
+<p  align="center"><img width="600px" src="https://github.com/Harpreetsingh-Developer/browser-password-decryptor/blob/main/assets/BrowserPasswordDecryptor.gif"></p>
 
 
 <h2 align="center">Browser Password Decryptor</h2>
@@ -10,9 +10,9 @@
     <br />
     <strong>Explore the docs »</strong>
     <br />
-    <a href="https://github.com/BinaryBeast007/browser-password-decryptor/issues">Report Bug</a>
+    <a href="https://github.com/Harpreetsingh-Developer/browser-password-decryptor/issues">Report Bug</a>
     ·
-    <a href="https://github.com/BinaryBeast007/browser-password-decryptor/issues">Request Feature</a></p>
+    <a href="https://github.com/Harpreetsingh-Developer/browser-password-decryptor/issues">Request Feature</a></p>
 
 <!-- TABLE OF CONTENTS -->
 <details open>
