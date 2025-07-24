@@ -245,9 +245,7 @@ Always use this tool responsibly and respect the privacy and security of others.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/BinaryBeast007/browser-password-decryptor/blob/main/LICENSE) file for details.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
